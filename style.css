@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+}
+
+div{
+    text-align: center;
+    background-color: aqua;
+    margin: 100px 100px 100px 100px;
+    padding: 10px 10px 10px 10px;
+}
