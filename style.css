@@ -2,13 +2,27 @@ body{
     background-color: bisque;
 }
 
-div{
+.outer-box{
     text-align: center;
     background-color: aqua;
     margin: 50px 500px 50px 500px;
     padding: 30px 10px 30px 10px;
+    border-radius: 30%;
+    height: 50%;
+    width: 30%;
 }
 
-/* .inner{
-    /* padding: 10px 10px 10px 10px; */
-} */
+.inner-box{
+    padding: 10px 10px 10px 10px;
+}
+
+label{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.submit{
+    background-color: green; 
+    border-radius: 20%;
+    height: 50%;
+    width: 30%;
+} 
