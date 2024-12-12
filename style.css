@@ -5,7 +5,7 @@ body{
 .outer-box{
     text-align: center;
     background-color: rgba(0, 1, 1, 0.114);
-    margin: 50px 400px 50px 450px;
+    margin: 0px 425px 50px 425px;
     padding: 30px 100px 30px 100px;
     border-radius: 30%;
     height: 50%;
@@ -14,12 +14,12 @@ body{
 
 .inner-box{
     padding: 10px 10px 10px 10px;
-    margin-top: 25px;
-    margin-bottom: 5px;
+    margin-top: 5px;
+    padding-top: 20px;
 }
 
 label{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: papyrus;
 
 }
 .submit{
@@ -28,3 +28,12 @@ label{
     height: 50%;
     width: 30%;
 } 
+
+h2{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 40px;
+    font-family: papyrus;
+    /* background-color: aliceblue; */
+
+}
