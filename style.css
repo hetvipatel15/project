@@ -4,9 +4,9 @@ body{
 
 .outer-box{
     text-align: center;
-    background-color: aqua;
-    margin: 50px 500px 50px 500px;
-    padding: 30px 10px 30px 10px;
+    background-color: rgba(0, 1, 1, 0.114);
+    margin: 50px 400px 50px 450px;
+    padding: 30px 100px 30px 100px;
     border-radius: 30%;
     height: 50%;
     width: 30%;
