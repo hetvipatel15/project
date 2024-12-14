@@ -41,7 +41,8 @@ h2{
 }
 .children{
     padding-left: 3rem;
-    height: 20rem;
-    width: 40rem;
-    background-color: aqua;
+    padding-bottom: 15rem;
+    height: 1rem;
+    width: 3rem;
+    /* background-color: aqua; */
 }
