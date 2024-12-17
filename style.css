@@ -37,7 +37,7 @@ h2{
     padding-top: 20px;
     font-size: 40px;
     font-family: papyrus;
-    /* background-color: aliceblue; */
+   
 
 }
 .children{
@@ -45,10 +45,10 @@ h2{
     padding-bottom: 15rem;
     height: 1rem;
     width: 3rem;
-    background-color: yellow;
+    
 }
 
 .girl{
     margin-left: 0rem;
-    background-color: aqua;
+    padding-left: 500px;
 }
