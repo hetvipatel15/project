@@ -6,10 +6,10 @@ body{
 .outer-box{
     text-align: center;
     background-color: rgba(0, 1, 1, 0.114);
-    margin: 0px 345px 50px 345px;
+    margin: 0px 345px 0px 345px;
     padding: 30px 225px 30px 225px;
     border-radius: 30%;
-    height: 50%;
+    height: 63%;
     width: 55%;
 }
 
@@ -45,7 +45,7 @@ h2{
     padding-bottom: 15rem;
     height: 1rem;
     width: 3rem;
-    /* background-color: aqua; */
+    background-color: yellow;
 }
 
 .girl{
